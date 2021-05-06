@@ -1,0 +1,2 @@
+rootProject.name='TouchsidesWords'
+include ':app'
